@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Instagram Reel Counter</string>
+    <string name="accessibility_description">Detects Instagram Reels scrolling</string>
+</resources>
