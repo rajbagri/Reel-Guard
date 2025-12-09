@@ -22,22 +22,6 @@ It provides users with:
 
 ---
 
-## 📂 Project Structure
-
-```
-app/
- ├── data/
- │    ├── repository/
- │    └── model/
- ├── ui/
- │    ├── screens/
- │    ├── components/
- │    └── theme/
- ├── service/
- │    └── ReelAccessibilityService.kt
- ├── viewmodel/
- └── MainActivity.kt
-```
 
 ---
 
