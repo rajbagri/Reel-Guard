@@ -40,31 +40,12 @@ It provides users with:
 Here are the app screenshots:
 
 ```markdown
-![Screenshot 1](https://raw.githubusercontent.com/rajbagri/Reel-Guard/main/WhatsApp%20Image%202025-11-10%20at%2014.05.04_97dde31a.jpg)
-![Screenshot 2](https://raw.githubusercontent.com/rajbagri/Reel-Guard/main/WhatsApp%20Image%202025-11-10%20at%2014.07.58_aad827ef.jpg)
-![Screenshot 3](https://raw.githubusercontent.com/rajbagri/Reel-Guard/main/WhatsApp%20Image%202025-11-10%20at%2014.11.02_b71b1da6.jpg)
-![Screenshot 4](https://raw.githubusercontent.com/rajbagri/Reel-Guard/main/WhatsApp%20Image%202025-11-10%20at%2014.05.02_93998337.jpg)
+![Screenshot 1](https://github.com/rajbagri/Reel-Guard/blob/main/WhatsApp%20Image%202025-11-10%20at%2014.05.04_97dde31a.jpg)
+![Screenshot 2](https://github.com/rajbagri/Reel-Guard/blob/main/WhatsApp%20Image%202025-11-10%20at%2014.07.58_aad827ef.jpg)
+![Screenshot 3](https://github.com/rajbagri/Reel-Guard/blob/main/WhatsApp%20Image%202025-11-10%20at%2014.11.02_b71b1da6.jpg)
+![Screenshot 4](https://github.com/rajbagri/Reel-Guard/blob/main/WhatsApp%20Image%202025-11-10%20at%2014.05.02_93998337.jpg)
 
 ```
-
-> Added `?raw=true` so GitHub displays the images correctly.
-
----
-
-## 📸 Demo Video
-
-You can embed your app demo video here:
-
-```html
-<video width="350" controls>
-  <source src="YOUR_VIDEO_LINK_HERE.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-```
-
-> Replace `YOUR_VIDEO_LINK_HERE.mp4` with your GitHub-hosted video link or YouTube video download link.
-
----
 
 ## 📦 Installation
 
