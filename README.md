@@ -57,7 +57,7 @@ app/
 Here are the app screenshots:
 
 ```markdown
-![Screenshot 1](https://github.com/rajbagri/Reel-Guard/blob/main/WhatsApp%20Image%202025-11-10%20at%2014.05.02_93998337.jpg?raw=true)
+![Screenshot 1](WhatsApp Image 2025-11-10 at 14.05.02_93998337.jpg)
 ![Screenshot 2](https://github.com/rajbagri/Reel-Guard/blob/main/WhatsApp%20Image%202025-11-10%20at%2014.05.04_97dde31a.jpg?raw=true)
 ```
 
