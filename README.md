@@ -12,19 +12,19 @@ It provides users with:
 
 ---
 
-## 🚀 Features
+##  Features
 
-* 📌 Track every reel you watch on Instagram
-* 📊 Display live counters in Jetpack Compose UI
-* 🔄 Uses ViewModel + Repository to maintain accurate state
-* 🛡 Works entirely on-device
-* 🔔 Sends notifications for milestones (coming soon)
-
----
+*  Track every reel you watch on Instagram
+*  Display live counters in Jetpack Compose UI
+*  Uses ViewModel + Repository to maintain accurate state
+*  Works entirely on-device
+*  Sends notifications for milestones (coming soon)
 
 ---
 
-## 🧩 Tech Stack
+---
+
+##  Tech Stack
 
 * **Kotlin**
 * **Jetpack Compose**
@@ -52,7 +52,7 @@ Here are the app screenshots:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/reel-guard.git
+git clone https://github.com/rajbagri/Reel-Guard/
 ```
 
 2. Open in Android Studio
