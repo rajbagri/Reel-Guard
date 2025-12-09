@@ -22,23 +22,6 @@ It provides users with:
 
 ---
 
-## 📂 Project Structure
-
-```
-app/
- ├── data/
- │    ├── repository/
- │    └── model/
- ├── ui/
- │    ├── screens/
- │    ├── components/
- │    └── theme/
- ├── service/
- │    └── ReelAccessibilityService.kt
- ├── viewmodel/
- └── MainActivity.kt
-```
-
 ---
 
 ## 🧩 Tech Stack
@@ -57,10 +40,11 @@ app/
 Here are the app screenshots:
 
 ```markdown
-![Screenshot 1](https://github.com/rajbagri/Reel-Guard/blob/main/WhatsApp%20Image%202025-11-10%20at%2014.05.04_97dde31a.jpg)
-![Screenshot 2](https://github.com/rajbagri/Reel-Guard/blob/main/WhatsApp%20Image%202025-11-10%20at%2014.07.58_aad827ef.jpg)
-![Screenshot 3](https://github.com/rajbagri/Reel-Guard/blob/main/WhatsApp%20Image%202025-11-10%20at%2014.11.02_b71b1da6.jpg)
-![Screenshot 4](https://github.com/rajbagri/Reel-Guard/blob/main/WhatsApp%20Image%202025-11-10%20at%2014.05.02_93998337.jpg)
+![Screenshot 1](https://github.com/rajbagri/Reel-Guard/blob/main/WhatsApp%20Image%202025-11-10%20at%2014.05.04_97dde31a.jpg?raw=true)
+![Screenshot 2](https://github.com/rajbagri/Reel-Guard/blob/main/WhatsApp%20Image%202025-11-10%20at%2014.07.58_aad827ef.jpg?raw=true)
+![Screenshot 3](https://github.com/rajbagri/Reel-Guard/blob/main/WhatsApp%20Image%202025-11-10%20at%2014.11.02_b71b1da6.jpg?raw=true)
+![Screenshot 4](https://github.com/rajbagri/Reel-Guard/blob/main/WhatsApp%20Image%202025-11-10%20at%2014.05.02_93998337.jpg?raw=true)
+
 ```
 
 > Added `?raw=true` so GitHub displays the images correctly.
