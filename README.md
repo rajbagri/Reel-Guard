@@ -22,6 +22,22 @@ It provides users with:
 
 ---
 
+## 📂 Project Structure
+
+```
+app/
+ ├── data/
+ │    ├── repository/
+ │    └── model/
+ ├── ui/
+ │    ├── screens/
+ │    ├── components/
+ │    └── theme/
+ ├── service/
+ │    └── ReelAccessibilityService.kt
+ ├── viewmodel/
+ └── MainActivity.kt
+```
 
 ---
 
@@ -33,6 +49,19 @@ It provides users with:
 * **AccessibilityService**
 * **Shared Repository Pattern**
 * **Material 3**
+
+---
+
+## 🖼️ App Screenshots
+
+Add your app screenshots here:
+
+```markdown
+![Screenshot 1]((https://github.com/rajbagri/Reel-Guard/blob/main/WhatsApp%20Image%202025-11-10%20at%2014.05.02_93998337.jpg))
+![Screenshot 2]((https://github.com/rajbagri/Reel-Guard/blob/main/WhatsApp%20Image%202025-11-10%20at%2014.05.04_97dde31a.jpg))
+```
+
+> Replace the links with GitHub-hosted images.
 
 ---
 
@@ -73,22 +102,3 @@ git clone https://github.com/yourusername/reel-guard.git
 * UI automatically recomposes
 
 ---
-
-## 📌 Upcoming Features
-
-* Dark mode
-* Export reel stats as CSV
-* Cloud sync
-* Per-day tracking graph
-
----
-
-## 🤝 Contributing
-
-Pull requests are welcome. For major changes, open an issue first.
-
----
-
-## 📜 License
-
-MIT License
