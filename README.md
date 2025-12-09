@@ -54,14 +54,14 @@ app/
 
 ## 🖼️ App Screenshots
 
-Add your app screenshots here:
+Here are the app screenshots:
 
 ```markdown
-![Screenshot 1]((https://github.com/rajbagri/Reel-Guard/blob/main/WhatsApp%20Image%202025-11-10%20at%2014.05.02_93998337.jpg))
-![Screenshot 2]((https://github.com/rajbagri/Reel-Guard/blob/main/WhatsApp%20Image%202025-11-10%20at%2014.05.04_97dde31a.jpg))
+![Screenshot 1](https://github.com/rajbagri/Reel-Guard/blob/main/WhatsApp%20Image%202025-11-10%20at%2014.05.02_93998337.jpg?raw=true)
+![Screenshot 2](https://github.com/rajbagri/Reel-Guard/blob/main/WhatsApp%20Image%202025-11-10%20at%2014.05.04_97dde31a.jpg?raw=true)
 ```
 
-> Replace the links with GitHub-hosted images.
+> Added `?raw=true` so GitHub displays the images correctly.
 
 ---
 
@@ -102,3 +102,4 @@ git clone https://github.com/yourusername/reel-guard.git
 * UI automatically recomposes
 
 ---
+
